@@ -1,0 +1,3 @@
+/Users/paxiong/CLionProjects/Indices/cmake-build-debug/CMakeFiles/Indices.dir
+/Users/paxiong/CLionProjects/Indices/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/paxiong/CLionProjects/Indices/cmake-build-debug/CMakeFiles/rebuild_cache.dir
